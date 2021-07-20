@@ -1,8 +1,6 @@
 # UMS: University Management System
 
-### A transparent and user-friendly University Management System. This project was created as a part of the Semester-5-DBMS mini-project.
-
-<br/>
+A transparent and user-friendly University Management System. This project was created as a part of the Semester-5-DBMS mini-project.
 
 ## Project Structure: 
 ```
@@ -49,7 +47,7 @@
 ### Screenshots:
 Login page:
 
-![login_page](assets/screenshots/Login.png "login.png")
+![login_page](assets/screenshots/login.png "login.png")
 
 Dashboard page:
 
